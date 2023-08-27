@@ -4,8 +4,13 @@ export default function Home() {
   return (
     <div>
       <h1>dsfdsfdsffs</h1>
-      <Grid>
+      <Grid
+        sx={{
+          color :"red"
+        }}
+      >
         kmdlsfkfmdslk
+        jf
       </Grid>
     </div>
   )
