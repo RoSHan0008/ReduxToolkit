@@ -1,10 +1,12 @@
+import { Grid } from "@mui/material";
 import Home from "./component/home";
 
 function App() {
   return (
-    <div >
-      <Home/>
-    </div>
+    <Grid className="app">
+      <Home />
+
+    </Grid>
   );
 }
 
