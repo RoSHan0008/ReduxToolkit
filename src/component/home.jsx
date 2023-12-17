@@ -33,6 +33,7 @@ export default function Home() {
       </Typography>
       <Grid>
         <Button
+       style={{background:"red"}}
         onClick={addBtn}
          >increment
         </Button>
